@@ -6,4 +6,4 @@ gunicorn
 Werkzeug==2.2.3
 Jinja2==3.0.0
 email_validator
-setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
